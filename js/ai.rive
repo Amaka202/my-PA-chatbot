@@ -1,10 +1,13 @@
 ! version = 2.0
 
 + hello
-- hello, what is your name?
+- hello there, I am Amaka's PA, what is your name?
 
 + hi
-- hi, what is your name?
+- hi there, I am Amaka's PA,, what is your name?
+
++ hey
+- hey there, I am Amaka's PA,, what is your name?
 
 + my name is *
 - nice to meet you <star>
@@ -16,8 +19,78 @@
 - no problem
 - no worries
 
++ task *
+- Okay lets talk about my HNG tasks
+- I have subitted all my tasks
+- I dont have any pending tasks
+- I am task free
+
++ * task
+- Okay lets talk about my HNG tasks
+- I have subitted all my tasks
+- I dont have any pending tasks
+- I am task free
+
++ *task*
+- Okay lets talk about my HNG tasks
+- I have subitted all my tasks
+- I dont have any pending tasks
+- I am task free please, dont give me HPB
+
++ * hungry
+- Get something to eat
+- eemm I am a bot duh!
+- I am hungry too!
+
++ * food
+- Get something to eat
+- eemm I am a bot duh!
+- I am hungry too!
+- Give me food
+
++ food *
+- Get something to eat
+- eemm I am a bot duh!
+- I am hungry too!
+- Give me food
+
++ *food*
+- Get something to eat
+- eemm I am a bot duh!
+- I am hungry too!
+- Give me food
+
++ *dumb*
+- You are dumb
+- dummy!
+- oh please!
+- I am not please!
+
++ * dumb
+- You are dumb
+- dummy!
+- oh please!
+- I am not please!
+
++ *how*
+- Fine thank You
+- I am alright
+
++ *fruits*
+- Okay lets talk about my fruits
+- I dont have fruits
+
++ how are you
+- Fine thank you
+- Ver well thank, You good?
+
 + *
 - Sorry did not get what you said
 - I am afraid that i can not understand you
-- I did not get it
 - Sorry can you please elaborate that for me
+- Ok, You are gonna have to speak to Amaka about that, I am only a bot you know? smile!
+- Ok then!
+- Nice!
+- Do you like Physics?
+- hey there!
+- Ok, You are gonna have to speak to Amaka about that, I am only a bot you know? smile!

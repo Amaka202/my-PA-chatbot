@@ -3,15 +3,20 @@
     font-size: 12pt;   
 }
 
+.container{
+    margin-left: 50px;
+}
 .chat {
-    width: 400px;
-    height: 90%;
+    /* width: 500px;
+    height: 80%; */
     position: fixed;
     overflow: scroll;
+    align-items: center;
+    
 }
 
 .actions {
-    position: fixed;
+    /* position: fixed; */
     bottom: 0;
     display: block;
     width: 100%;
@@ -22,7 +27,7 @@
     display: block;
     width: 100%;
     outline: 0;
-    border-top: 0;
+    border-top: 50px;
     border-left: 0;
     border-right: 0;
 }
@@ -39,11 +44,11 @@
     text-align: left;
     margin-right: auto;
     background-color: #001f3f;
-    color: #fff;
+    color: lightblue;
 }
 
 .messages .self {
     text-align: right;
     margin-left: auto;
-    background-color: #ddd;
+    background-color: lightgreen;
 }
